@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Rakkas&display=swap');
+.centralizarLamp{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+.centralizarLamp button{
+    background-color:  rgb(26, 74, 163);
+    width: 80%;
+    height: 15%;
+    color: aliceblue;
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Rakkas', cursive;
+    border: 0px;
+    border-radius: 20px;
+}
+#lampada{
+    height: 250px;
+    width: 200px;
+}

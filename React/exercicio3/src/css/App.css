@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Rakkas&display=swap');
+.cp1{
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Rakkas', cursive;
+}
+body{
+    background: url(../img/background.jpg);
+    background-size: contain;
+}
+.integrantes{
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Rakkas', cursive;
+    color: aliceblue;
+}

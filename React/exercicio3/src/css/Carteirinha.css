@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Rakkas&display=swap');
+.ftPerfil{
+    width: 70px;
+    height: 94px;
+    margin: 10px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    border: black;
+    border-radius: 20px;
+    background-color: rgb(83, 83, 83);
+    width: 500px;
+    margin: 20px;
+    align-items: center;
+}
+.allCart{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.containerForm{
+    border:  black;
+    width: 300px;
+    border-radius: 20px;
+    background-color: rgb(83, 83, 83);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.containerForm ul{
+    list-style: none;
+    padding: 0;
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Rakkas', cursive;
+}
+.containerForm input {
+    text-align: center;
+    border-radius: 4px;
+    width: 150px;
+    height: 20px;
+    border: none;
+}
+
+.containerForm p {
+    text-align: center;
+}
+.inputDados{
+    width: 100px;
+}
